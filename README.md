@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *CrowdFunded Games App*
 
-Submitted by: **Your Name Here**
+Submitted by: **Marvin**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CrowdFunded Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -15,9 +15,6 @@ The following **required** functionality is completed:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -25,20 +22,18 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap
+
+![CodePath_WEB102_PreWork](https://github.com/user-attachments/assets/2902298e-c7c4-4e22-941e-d682b1980158)
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge was setting up Git locally, which took some time to configure properly. On the positive side, learning the JavaScript functionality like `reduce` and `filter` was the best part, as it really enhanced my understanding of DOM manipulation.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Marvin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
